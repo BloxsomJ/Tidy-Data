@@ -1,8 +1,4 @@
 run_analysis <- function() {
-  ##Project page:
-  ##https://www.coursera.org/learn/data-cleaning/peer/FIZtT/getting-and-cleaning-data-course-project
-  ##Good material in the forum for this, and blog post:
-  ##https://thoughtfulbloke.wordpress.com/2015/09/09/getting-and-cleaning-the-assignment/
   #load necessary libraries
   library(dplyr)
   
